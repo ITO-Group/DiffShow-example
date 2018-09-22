@@ -28,8 +28,8 @@ import java.io.FileNotFoundException;
 
 public class CapacityView extends View {
 
-    final static int tpWidth = 6;
-    final static int tpHeight = 8;
+    final static int tpWidth = 18;
+    final static int tpHeight = 32;
 
     int screenWidth;
     int screenHeight;

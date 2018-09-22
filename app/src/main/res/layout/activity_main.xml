@@ -9,6 +9,8 @@
     <com.example.diffshow.CapacityView
         android:id="@+id/capacityView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="85dp" />
 
 </android.support.constraint.ConstraintLayout>
